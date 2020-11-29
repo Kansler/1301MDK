@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WindowsFormsApp2511\obj\Debug\WindowsFormsApp2511.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp2511\obj\Debug\WindowsFormsApp2511.Forms.MainForm.resources
+C:\Users\User\source\repos\WindowsFormsApp2511\obj\Debug\WindowsFormsApp2511.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp2511\obj\Debug\WindowsFormsApp2511.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp2511\obj\Debug\WindowsFormsApp2511.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp2511\bin\Debug\WindowsFormsApp2511.exe.config
+C:\Users\User\source\repos\WindowsFormsApp2511\bin\Debug\WindowsFormsApp2511.exe
+C:\Users\User\source\repos\WindowsFormsApp2511\bin\Debug\WindowsFormsApp2511.pdb
+C:\Users\User\source\repos\WindowsFormsApp2511\obj\Debug\WindowsFormsApp2511.exe
+C:\Users\User\source\repos\WindowsFormsApp2511\obj\Debug\WindowsFormsApp2511.pdb
+C:\Users\User\source\repos\WindowsFormsApp2511\obj\Debug\WindowsFormsApp2511.Forms.SpecialtiesForm.resources
